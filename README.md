@@ -1,5 +1,5 @@
 ### Hi there, I'm Goli Akshay 👋
-
+## Highly motivated and enthusiastic Software Developer with experience in cutting edge tech like Machine Learning, Cloud Computing who enjoys challenges.
 <!--
 **goliakshay357/goliakshay357** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
